@@ -1,6 +1,6 @@
 ![The Duck Gallery](./assets/social-share.png)
 
-[![License: Apache-2.0](https://img.shields.io/github/license/zenika-open-source/my-zenikanard)](./.github/LICENSE.md)
+[![License: Apache-2.0](https://img.shields.io/github/license/zenika-open-source/my-zenikanard)](./LICENSE.md)
 
 The main goal of "The Duck Gallery" is to propose an easy and fun way to make your first contribution on an open source project.
 
@@ -40,5 +40,5 @@ https://theduckgallery.zenika.com
 
 ## License
 
-This project is [Apache-2.0](./.github/LICENSE.md) licensed.<br />
+This project is [Apache-2.0](./LICENSE.md) licensed.<br />
 Copyright © 2020 [Zenika](https://oss.zenika.com).

@@ -4,7 +4,7 @@ Here my contribution to "The Duck Gallery".
 
 <!-- You can write a message here if you want ;) -->
 
-## You must respect the following conditions**
+## You must respect the following conditions
 
 1. Your contribution respects the code of conduct
 1. It's your first PR to this repository
