@@ -95,3 +95,8 @@ html, body {
 .duck > a:hover,a:active,a:focus {
   text-decoration: underline;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
