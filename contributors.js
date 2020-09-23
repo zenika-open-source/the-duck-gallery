@@ -1,3 +1,3 @@
 var contributors = [
-
+  'bpetetot'
 ]
