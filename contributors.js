@@ -1,3 +1,4 @@
 var contributors = [
-  'bpetetot'
+  'bpetetot',
+  'frinyvonnick',
 ]
