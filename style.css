@@ -1,0 +1,97 @@
+*, :after, :before {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  font-family: 'Paytone One', sans-serif;
+  color: #333;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title {
+  font-size: 4rem;
+  font-weight: 700;
+  text-align: center;
+}
+
+.title > strong {
+  color: #b51432;
+}
+
+.zenika-logo {
+  width: 150px;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  font-size: 2rem;
+  color: #888;
+  margin-bottom: 16px;
+}
+
+.ducks-count {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1.5rem;
+  margin: 32px 0;
+}
+
+.ducks-count #count {
+  color: #b51432;
+}
+
+.add-duck {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 48px;
+  margin-bottom: 64px;
+}
+
+.add-duck > a {
+  border: 1px solid #333;
+  background: #333;
+  color: white;
+  border-radius: 8px;
+  padding: 16px 32px;
+  text-decoration: none;
+  transition: ease-in all 200ms;
+}
+
+.add-duck > a:hover,a:active,a:focus {
+  background: white;
+  text-decoration: none;
+  color: #333;
+}
+
+#gallery {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 32px;
+}
+
+.duck {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 32px;
+}
+
+.duck > a {
+  color: #333;
+  margin-left: 10px;
+  text-decoration: none;
+}
+
+.duck > a:hover,a:active,a:focus {
+  text-decoration: underline;
+}

@@ -1,0 +1,12 @@
+{
+  "name": "the-duck-gallery",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "private": true,
+  "scripts": {
+    "start": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
