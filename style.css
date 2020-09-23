@@ -88,12 +88,23 @@ html, body {
 
 .duck > a {
   color: #333;
-  margin-left: 10px;
   text-decoration: none;
 }
 
 .duck > a:hover,a:active,a:focus {
   text-decoration: underline;
+}
+
+.message {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #888;
+  width: 300px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  text-align: center;
 }
 
 .footer {

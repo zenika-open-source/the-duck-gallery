@@ -16,8 +16,13 @@ Then it's time to add your duck ;)
 1. Go to https://pimpmyduck.zenika.com and create your own duck
 2. Export it to an image (use the download button)
 3. Fork [this repository](https://github.com/zenika-open-source/the-duck-gallery) and clone it
-4. Add your image into the `ducks/` folder, with your GitHub username as filename (ex: `username.png`)
-5. Add your GitHub username into the `contributors.js` file
+4. Add your image into the `ducks/` folder, with your GitHub username as filename (ex: `your-username.png`)
+5. Into the `contributors.js` file, add a line with your GitHub username and a short message 
+
+```js
+  { username: 'your-username', message: 'Say something kind or fun' },
+```
+
 6. Commit and push your modifications
 7. Create a PR
 
@@ -30,12 +35,13 @@ https://theduckgallery.zenika.com
 
 **Be careful, your PR must respect the following conditions:**
 
-1. Your contribution respects the code of conduct
+1. Your contribution must respect the code of conduct
 1. It's your first PR to this repository
 1. You have added your image of the duck downloaded from https://pimpmyduck.zenika.com
-1. The image filename must be your GitHub username (ex: `username.png`)
 1. You have not changed the image of the duck
+1. The image filename must be your GitHub username (ex: `your-username.png`)
 1. You are using your own GitHub user and it's the same as the PR author
+1. Into the `contributors.js` file, the message must be short and respect the code of conduct 
 
 
 ## License
