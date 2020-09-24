@@ -19,9 +19,9 @@ Then it's time to add your duck ;)
 
 Here you just need a GitHub account (don't forget to register to Hacktoberfest if you want a PR count)
 
-Then watch the video and follow the steps:
+Then [watch the video](https://theduckgallery.zenika.com/howto) and follow the steps:
 
-[HERE ADD THE VIDEO LINK]
+[![Video](./assets/video-thumb.png)](https://theduckgallery.zenika.com/howto)
 
 ### The developer way to contribute
 
