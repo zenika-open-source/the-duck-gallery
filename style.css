@@ -8,6 +8,12 @@ html, body {
   color: #333;
 }
 
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin-top: 32px;
+}
+
 .header {
   display: flex;
   flex-direction: column;
@@ -110,4 +116,15 @@ html, body {
 .footer {
   display: flex;
   justify-content: center;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  margin: 32px 32px;
+  max-width: 100%;
+}
+
+video {
+  max-width: 100%;
 }
