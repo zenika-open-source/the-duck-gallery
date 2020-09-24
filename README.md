@@ -4,6 +4,8 @@
 
 The main goal of "The Duck Gallery" is to propose an easy and fun way to make your first contribution on an open source project.
 
+Here the official website: https://theduckgallery.zenika.com
+
 It's open to everyone. Happy Hacktoberfest !
 
 
@@ -12,6 +14,16 @@ It's open to everyone. Happy Hacktoberfest !
 First of all, to contribute, you must be agree with our [code of conduct](./.github/CODE_OF_CONDUCT.md).
 
 Then it's time to add your duck ;)
+
+### The easy way to contribute
+
+Here you just need a GitHub account (don't forget to register to Hacktoberfest if you want a PR count)
+
+Then watch the video and follow the steps:
+
+[HERE ADD THE VIDEO LINK]
+
+### The developer way to contribute
 
 1. Go to https://pimpmyduck.zenika.com and create your own duck
 2. Export it to an image (use the download button)
