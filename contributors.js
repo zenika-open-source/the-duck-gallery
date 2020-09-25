@@ -10,4 +10,5 @@
  */
 var contributors = [
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'alanlengkoan', message: 'Happy Hacking 2020 from Indonesia!' },
 ]
