@@ -10,5 +10,5 @@
  */
 var contributors = [
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
-   { username: 'lapalb', message: 'Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.' },
+  { username: 'lapalb', message: 'Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.' },
 ]
