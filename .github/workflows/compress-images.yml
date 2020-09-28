@@ -1,6 +1,6 @@
 # Compress images on demand (workflow_dispatch), and at 11pm every Sunday (schedule).
 # Open a pull request if any images can be compressed
-name: Compress images
+name: Optimize images
 on:
   workflow_dispatch:
   schedule:
@@ -12,6 +12,11 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@master
+      - name: Resize images
+        uses: xprilion/img-resizer-inplace@v1
+        with:
+          target: ducks
+          dimensions: 300x300
       - name: Compress Images
         id: calibre
         uses: calibreapp/image-actions@master
