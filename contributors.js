@@ -89,4 +89,5 @@ var contributors = [
   { username: 'JoseRivera12', message: 'Happy coding ;)'},
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
+  { username: "werikgpaula", message: "🦆 Bee free" },
 ];
