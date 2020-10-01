@@ -11,6 +11,7 @@
 var contributors = [
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'Huzaifaahmed20', message: 'I have added my cool duck on this repo.' },
   { username: 'AjayThakur12', message: 'First time Hacktoberfest feeling Awesome' },
   { username: 'SinghCoder', message: 'Hola!! Happy Hacktoverfest!!'},
   { username: 'alanlengkoan', message: 'Happy Hacking 2020 from Indonesia!' },
