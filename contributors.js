@@ -74,4 +74,5 @@ var contributors = [
     message: 'Quack!! Quack quack.. quaaaack.. quackquackquaackk!!' 
   },
   { username: 'Saral33', message: 'Keep coding :)' },
+  { username: 'weiyi-m', message: 'happy hacktoberfest!' },
 ]
