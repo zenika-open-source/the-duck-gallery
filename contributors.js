@@ -11,6 +11,7 @@
 var contributors = [
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'AjayThakur12', message: 'First time Hacktoberfest feeling Awesome' },
   { username: 'SinghCoder', message: 'Hola!! Happy Hacktoverfest!!'},
   { username: 'alanlengkoan', message: 'Happy Hacking 2020 from Indonesia!' },
   { username: 'renanlmiranda', message: 'There is no advantage to living life on the run.' },
