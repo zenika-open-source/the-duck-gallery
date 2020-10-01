@@ -12,6 +12,7 @@ var contributors = [
   { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'bytesagar', message: 'Commit message not crime😁😉' },
   { username: 'lapalb', message: 'Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.' },
   { username: 'Kacimi-Amine', message: 'Happy Hacktoberfest 2020!' },
   { username: 'murilopereirame', message: 'Stay Home! Stop spreading COVID-19! You are not alone :) Happy hacking!' },
