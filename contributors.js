@@ -87,5 +87,6 @@ var contributors = [
   { username: 'Tazminia', message: 'Free PR for everyone'},
   { username: 'chocho01', message: '❤️🦆 & ❤️ Hacktoberfest' },
   { username: 'JoseRivera12', message: 'Happy coding ;)'},
-  { username: 'jbleduigou', message: 'Hello, Gophers!' }
-]
+  { username: 'jbleduigou', message: 'Hello, Gophers!' },
+  { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
+];
