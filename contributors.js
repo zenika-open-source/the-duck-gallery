@@ -68,6 +68,7 @@ var contributors = [
   { username: 'beforesecond', message: 'Happy Hacking ! #hacktoberfest' },
   { username: 'colabottles', message: 'Hey yo! Happy Hacktoberfest 2020!' },
   { username: 'mukesh2309', message: 'word hard' },
+  { username: 'amimaro', message: 'llllllllllllllljjjjjjnnnnnncccceeeee sorry, it was my cat!' },
   { 
     username: 'idm1303', 
     message: 'Quack!! Quack quack.. quaaaack.. quackquackquaackk!!' 
