@@ -44,5 +44,6 @@ var contributors = [
   { username: 'Edward2206', message: 'Happy Hacktoberfest 2020!' },
   { username: 'zesterquinn', message: 'Quaktoberfest 2020!' },
   { username: 'nagahshi', message: 'QUACK! #hacktoberfest' },
+  { username: 'colabottles', message: 'Hey yo! Happy Hacktoberfest 2020!' },
   { username: 'mukesh2309', message: 'word hard' },
 ]
