@@ -75,7 +75,9 @@ var contributors = [
   },
   { username: 'Saral33', message: 'Keep coding :)' },
   { username: 'weiyi-m', message: 'happy hacktoberfest!' },
+  { username: 'jlandure', message: '🎉 Happy Hacking 2020! 💚' },
   { username: 'JoseRivera12', message: 'Happy coding ;)'},
   { username: 'Tazminia', message: 'Free PR for everyone'},
   { username: 'chocho01', message: '❤️🦆 & ❤️ Hacktoberfest' },
+  { username: 'JoseRivera12', message: 'Happy coding ;)'},
 ]
