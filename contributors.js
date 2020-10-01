@@ -9,8 +9,26 @@
  * The message must be short and respect our code of conduct.
  */
 var contributors = [
+  { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'callmebhawesh', message: 'This really awesome, Happy Hacktoberfest 2020!' },
+  { username: 'brunosabot', message: 'Hello, Hacktoberfest :)' },
+  { username: 'Riya-code', message: 'Happy Hacking!' },
+  { username: 'nikhilomkar99', message: 'Added a duck.Happy Hacktoberfest 2020!' },
+  { username: 'SushanShakya', message: 'Would you like some tea too ??' },
+  { username: 'anishghimire603', message: 'Have fun and contribute to Open Sources.' },
+  { username: 'bytesagar', message: 'Commit message not crime😁😉' },
+  { username: 'lapalb', message: 'Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.' },
+  { username: 'Kacimi-Amine', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'murilopereirame', message: 'Stay Home! Stop spreading COVID-19! You are not alone :) Happy hacking!' },
+  { username: 'defuex', message: 'Austrias Next Ducky 2020!' },
+  { username: 'ashiishme', message: 'Stay safe, God bless all.' },
+  { username: 'premkiran7', message: 'Hacktoberfest is cool' },
+  { username: 't6tg', message: 'Happy Hacktoberfest 2020! 🐣' },
+  { username: 'lvmenezes', message: 'Show must code on' },
+  { username: 'paddlepop25', message: 'This is my first PR! Wheeee!' },
+  { username: 'Natasha1305', message: 'This was a great first experience. Thank You!' },
   { username: 'R-Jin', message: 'Happy Hacktober 2020 :)'},
   { username: 'Capt-Titanium', message: 'Duck to win!' },
   { username: 'Huzaifaahmed20', message: 'I have added my cool duck on this repo.' },
@@ -27,4 +45,5 @@ var contributors = [
   { username: 'zesterquinn', message: 'Quaktoberfest 2020!' },
   { username: 'nagahshi', message: 'QUACK! #hacktoberfest' },
   { username: 'colabottles', message: 'Hey yo! Happy Hacktoberfest 2020!' },
+  { username: 'mukesh2309', message: 'word hard' },
 ]
