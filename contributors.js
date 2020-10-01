@@ -9,6 +9,7 @@
  * The message must be short and respect our code of conduct.
  */
 var contributors = [
+  { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
   { username: 'ukt1997', message: 'My 1st Contribution to Open Source , Happy Hacktoberfest 2020!' },
   { username : 'MikeLikesCode', message: 'I love my duck so much! Happy Hacktoberfest!'},
