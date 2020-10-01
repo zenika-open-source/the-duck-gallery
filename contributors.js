@@ -12,6 +12,7 @@ var contributors = [
   { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'ashiishme', message: 'Stay safe, God bless all.' },
   { username: 'premkiran7', message: 'Hacktoberfest is cool' },
   { username: 't6tg', message: 'Happy Hacktoberfest 2020! 🐣' },
   { username: 'lvmenezes', message: 'Show must code on' },
