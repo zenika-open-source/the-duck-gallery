@@ -19,9 +19,9 @@ Then it's time to add your duck ;)
 
 Here you just need a GitHub account (don't forget to register to Hacktoberfest if you want a PR count)
 
-Then watch the video and follow the steps:
+Then [watch the video](https://theduckgallery.zenika.com/howto) and follow the steps:
 
-[HERE ADD THE VIDEO LINK]
+[![Video](./assets/video-thumb.png)](https://theduckgallery.zenika.com/howto)
 
 ### The developer way to contribute
 
@@ -47,13 +47,13 @@ https://theduckgallery.zenika.com
 
 **Be careful, your PR must respect the following conditions:**
 
-1. Your contribution must respect the code of conduct
-1. It's your first PR to this repository
+1. Your contribution must respect the [code of conduct](./.github/CODE_OF_CONDUCT.md).
+1. It's your first PR to this repository.
 1. You have added your image of the duck downloaded from https://pimpmyduck.zenika.com
-1. You have not changed the image of the duck
-1. The image filename must be your GitHub username (ex: `your-username.png`)
-1. You are using your own GitHub user and it's the same as the PR author
-1. Into the `contributors.js` file, the message must be short and respect the code of conduct 
+1. You have not changed the image of the duck.
+1. The image filename must be your GitHub username (ex: `your-username.png`).
+1. You are using your own GitHub user and it's the same as the PR author.
+1. Into the `contributors.js` file, the message must be short and respect the [code of conduct](./.github/CODE_OF_CONDUCT.md).
 
 
 ## License
