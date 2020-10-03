@@ -78,6 +78,7 @@ var contributors = [
   { username: 'weiyi-m', message: 'happy hacktoberfest!' },
   { username: 'mendelevium28', message: 'Quack me up!' },
   { username: 'JoseRivera12', message: 'Happy coding ;)'},
+  { username: 'cpmktd56', message: 'Happy Hacktober Everyone!' },
   { username: 'nikki156', message: 'Happy Hacktoberfest 2020!' },
   { username: 'Ryzenv9', message: 'Ryan was here. #Hacktoberfest2020;)'},
   { username: 'loic5', message: 'Happy #Hacktoberfest2020!!!!!!!!!!!'},
