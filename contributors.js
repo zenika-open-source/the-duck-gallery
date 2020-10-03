@@ -90,4 +90,5 @@ var contributors = [
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
+  { username: 'KwameTaylor', message: '#BlackLivesMatter #Hacktoberfest2020 :)' },
 ];
