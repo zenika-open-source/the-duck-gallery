@@ -92,5 +92,6 @@ var contributors = [
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
-  { username: 'JacobGeoGeek', message: 'Hello/Bonjour from Canada ! To all the devs in this world: Happy Hacktoberfest 2020 to everyone 🎉🎉' }
+  { username: "sj056", message: "hacktoberfest 2020!!" },
+  { username: 'JacobGeoGeek', message: 'Hello/Bonjour from Canada ! To all the devs in this world: Happy Hacktoberfest 2020 to everyone 🎉🎉' },
 ];
