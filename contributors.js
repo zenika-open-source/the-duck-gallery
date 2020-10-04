@@ -92,6 +92,7 @@ var contributors = [
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
+  { username: 'mayie', message: "❤️🦆" },
   { username: "Romakita", message: "Happy QUACK #Hacktoberfest2020 😉" },
   { username: "manuarlin", message: "Wonderful way to discover open source! Go ducks!" },
   { username: "mt-evarest", message: "Happy Quacking!" },
