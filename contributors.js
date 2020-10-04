@@ -12,6 +12,7 @@ var contributors = [
   { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
+  { username: 'tk021', message: 'What do ducks like to eat with soup? Quackers.' },
   { username: 'callmebhawesh', message: 'This really awesome, Happy Hacktoberfest 2020!' },
   { username: 'brunosabot', message: 'Hello, Hacktoberfest :)' },
   { username: 'Riya-code', message: 'Happy Hacking!' },
@@ -28,6 +29,7 @@ var contributors = [
   { username: 't6tg', message: 'Happy Hacktoberfest 2020! 🐣' },
   { username: 'lvmenezes', message: 'Show must code on' },
   { username: 'paddlepop25', message: 'This is my first PR! Wheeee!' },
+  { username: 'srishtipoudel', message: 'Stay Safe, Stay Negative'},
   {
     username: 'Natasha1305',
     message: 'This was a great first experience. Thank You!',
@@ -91,4 +93,8 @@ var contributors = [
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
   { username: "Romakita", message: "Happy QUACK #Hacktoberfest2020 😉" },
+  { username: "manuarlin", message: "Wonderful way to discover open source! Go ducks!" },
+  { username: "mt-evarest", message: "Happy Quacking!" },
+  { username: "sj056", message: "hacktoberfest 2020!!" },
+  { username: 'JacobGeoGeek', message: 'Hello/Bonjour from Canada ! To all the devs in this world: Happy Hacktoberfest 2020 to everyone 🎉🎉' },
 ];
