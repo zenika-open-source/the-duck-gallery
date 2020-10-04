@@ -94,6 +94,7 @@ var contributors = [
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
+  { username: 'LamSonFei', message: 'For the Hacktoberfest: 🦆 and move... 🦆 and move!' },
   { username: 'karinesabatier', message: 'Happy Hacking to everyone!' },
   { username: "Cajs", message: "🦆 #Hacktoberfest2020 🦆" },
   { username: "jpk3lly", message: "Be excellent to each other and party on dudes! HAPPY HACKTOBERFEST!!!" },
