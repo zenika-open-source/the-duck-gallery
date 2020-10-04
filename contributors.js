@@ -92,6 +92,7 @@ var contributors = [
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
+  { username: "Nick448", message: "Hey you!!!" },
   { username: "sarthakregmi", message: "Hippie detective" },
   { username: 'Marcelinoderry', message: 'Happy Hacktoberfest 2020 #popo[L]' },
   { username: 'LNCH', message: 'Darth Ducky shall take over the world!' },
