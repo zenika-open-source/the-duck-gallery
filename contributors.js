@@ -25,6 +25,7 @@ var contributors = [
   { username: 'Kacimi-Amine', message: 'Happy Hacktoberfest 2020!' },
   { username: 'murilopereirame', message: 'Stay Home! Stop spreading COVID-19! You are not alone :) Happy hacking!' },
   { username: 'defuex', message: 'Austrias Next Ducky 2020!' },
+  { username: 'David-Thapa', message: 'love the way duck smile😍' },
   { username: 'ashiishme', message: 'Stay safe, God bless all.' },
   { username: 'premkiran7', message: 'Hacktoberfest is cool' },
   { username: 't6tg', message: 'Happy Hacktoberfest 2020! 🐣' },
