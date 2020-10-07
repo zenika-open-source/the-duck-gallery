@@ -131,6 +131,7 @@ var contributors = [
   { username: 'drbalar', message: 'Happy Hacktoberfest 2020 !' },
   { username: 'LuanaBoune', message: 'Have a quack Hacktober' },
   { username: 'LumaLiana', message: 'Quack Quack' },
-  {username:  'aditee-singh', message:'Happy Quacktober Fest :P'},
-  { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'}
+  { username: 'aditee-singh', message:'Happy Quacktober Fest :P'},
+  { username: 'Taranys', message: 'No matter the bugs! No matter the issues! No matter what... K33P COD1NG 🍻' },
+  { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'},
 ];
