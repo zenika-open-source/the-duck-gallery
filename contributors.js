@@ -11,7 +11,7 @@
 var contributors = [
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
   { username: 'bpetetot', message: 'Happy Hacktoberfest 2020!' },
-  { username: 'lvmenezes', message: 'Show must code on' },
+  { username: 'lvmenezes', message: 'Show must code on!!!' },
   { username: 'paddlepop25', message: 'This is my first PR! Wheeee!' },
   { username: 'Natasha1305', message: 'This was a great first experience. Thank You!' },
   { username: 'R-Jin', message: 'Happy Hacktober 2020 :)'},
