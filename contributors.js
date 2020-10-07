@@ -131,4 +131,5 @@ var contributors = [
   { username: 'drbalar', message: 'Happy Hacktoberfest 2020 !' },
   { username: 'LuanaBoune', message: 'Have a quack Hacktober' },
   { username: 'LumaLiana', message: 'Quack Quack' },
+  {username:  'aditee-singh', message:'Happy Quacktober Fest :P'}
 ];
