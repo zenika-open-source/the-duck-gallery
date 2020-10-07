@@ -117,6 +117,7 @@ var contributors = [
   { username: 'axelrammon', message: 'Happy Hacktoberfest 2020 and drink coffee!!' },
   { username: 'Tejasvi2', message: 'Happy Coding!!! #Hacktoberfest2020' },
   { username: 'ElekN', message: 'Happy Hacktoberfest :DDDDDD' },
+  { username: 'aorenge', message: 'À vos marques, prêts ? codez ! #Hacktoberfest2020' },
   { username: 'kuroyza', message: 'Truth can only be found in the code 😉'},
   { username: 'P0ppoff', message: '❄️Grenika❄️' },
   { username: 'rlemaire', message: 'Ce monde est plein de canards.' },
