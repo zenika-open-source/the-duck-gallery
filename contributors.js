@@ -102,6 +102,7 @@ var contributors = [
   { username: "Cajs", message: "🦆 #Hacktoberfest2020 🦆" },
   { username: "jpk3lly", message: "Be excellent to each other and party on dudes! HAPPY HACKTOBERFEST!!!" },
   { username: "Nick448", message: "Hey you!!!" },
+  { username: "sebastienD", message: "Happy coding 😎" },
   { username: "sarthakregmi", message: "Hippie detective" },
   { username: 'Marcelinoderry', message: 'Happy Hacktoberfest 2020 #popo[L]' },
   { username: 'LNCH', message: 'Darth Ducky shall take over the world!' },
