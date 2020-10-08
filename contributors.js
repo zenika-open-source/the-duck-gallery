@@ -129,6 +129,7 @@ var contributors = [
   { username: 'kuroyza', message: 'Truth can only be found in the code 😉'},
   { username: 'P0ppoff', message: '❄️Grenika❄️' },
   { username: 'rlemaire', message: 'Ce monde est plein de canards.' },
+  { username: 'Uzma-Shaikh', message: 'Hello Everyone! Stay home, Stay safe' },
   { username: 'drbalar', message: 'Happy Hacktoberfest 2020 !' },
   { username: 'LuanaBoune', message: 'Have a quack Hacktober' },
   { username: 'LumaLiana', message: 'Quack Quack' },
