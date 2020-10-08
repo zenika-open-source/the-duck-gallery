@@ -129,6 +129,7 @@ var contributors = [
   { username: 'kuroyza', message: 'Truth can only be found in the code 😉'},
   { username: 'P0ppoff', message: '❄️Grenika❄️' },
   { username: 'rlemaire', message: 'Ce monde est plein de canards.' },
+  { username: 'Uzma-Shaikh', message: 'Hello Everyone! Stay home, Stay safe' },
   { username: 'drbalar', message: 'Happy Hacktoberfest 2020 !' },
   { username: 'LuanaBoune', message: 'Have a quack Hacktober' },
   { username: 'LumaLiana', message: 'Quack Quack' },
@@ -136,5 +137,8 @@ var contributors = [
   { username: 'Taranys', message: 'No matter the bugs! No matter the issues! No matter what... K33P COD1NG 🍻' },
   { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'},
   { username: 'shelb-doc', message: 'Me and my Duck are Ready to Code! 🎃🦆	' },
+  { username: 'tbetous', message:'Je collectionne des canards vivants ! ❤️🦆🎸🤘🎼🎵' },
+  { username: 'Pratiksha0100', message: 'Stop acting so small. You are the universe in ecstatic motion!' },
+  { username: 'cycy-realbeats', message:'OMG ! First PR EVER... Thank u ❤️'},
 ];
 
