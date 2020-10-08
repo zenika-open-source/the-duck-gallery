@@ -135,5 +135,6 @@ var contributors = [
   { username: 'aditee-singh', message:'Happy Quacktober Fest :P'},
   { username: 'Taranys', message: 'No matter the bugs! No matter the issues! No matter what... K33P COD1NG 🍻' },
   { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'},
+  { username: 'Pratiksha0100', message: 'Stop acting so small. You are the universe in ecstatic motion!' },
   { username: 'cycy-realbeats', message:'OMG ! First PR EVER... Thank u ❤️'},
 ];
