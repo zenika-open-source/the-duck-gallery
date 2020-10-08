@@ -135,4 +135,5 @@ var contributors = [
   { username: 'aditee-singh', message:'Happy Quacktober Fest :P'},
   { username: 'Taranys', message: 'No matter the bugs! No matter the issues! No matter what... K33P COD1NG 🍻' },
   { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'},
+  { username: 'Chaitali3005', message: 'I added my duck from the snowy places.Happy Hacktoberfest2020!'},
 ];
