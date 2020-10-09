@@ -141,5 +141,6 @@ var contributors = [
   { username: 'Pratiksha0100', message: 'Stop acting so small. You are the universe in ecstatic motion!' },
   { username: 'cycy-realbeats', message:'OMG ! First PR EVER... Thank u ❤️'},
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
+  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～('▽^人)'},
 ];
 
