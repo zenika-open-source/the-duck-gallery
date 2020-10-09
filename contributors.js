@@ -140,6 +140,7 @@ var contributors = [
   { username: 'tbetous', message:'Je collectionne des canards vivants ! ❤️🦆🎸🤘🎼🎵' },
   { username: 'Pratiksha0100', message: 'Stop acting so small. You are the universe in ecstatic motion!' },
   { username: 'cycy-realbeats', message:'OMG ! First PR EVER... Thank u ❤️'},
+  { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
   { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～('▽^人)'},
 ];
