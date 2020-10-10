@@ -32,6 +32,7 @@ var contributors = [
   { username: 'lvmenezes', message: 'Show must code on' },
   { username: 'paddlepop25', message: 'This is my first PR! Wheeee!' },
   { username: 'srishtipoudel', message: 'Stay Safe, Stay Negative'},
+   { username: 'OmBalar', message: 'Happy Hacktoberfest 2020 !' },
   {
     username: 'Natasha1305',
     message: 'This was a great first experience. Thank You!',
