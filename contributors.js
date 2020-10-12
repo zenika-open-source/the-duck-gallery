@@ -8,6 +8,7 @@
  *
  * The message must be short and respect our code of conduct.
  */
+/* eslint no-unused-vars: "off" */
 var contributors = [
   { username: 'PrakalpTiwari137', message: 'Happy HacktoberFest 2020!!! Lets open source ;)' },
   { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
