@@ -145,5 +145,6 @@ var contributors = [
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
   { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'}
+  { username: 'karoldm', message:'Happy Hacktober Fest 2020 for everyone! ❤️'}
 ];
 
