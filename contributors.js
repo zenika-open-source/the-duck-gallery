@@ -144,6 +144,7 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
-  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'}
+  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'},
+  { username: 'devmperso01', message: 'nice game for evry body' }
 ];
 
