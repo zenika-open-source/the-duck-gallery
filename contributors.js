@@ -147,6 +147,7 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
+  { username: 'luanamarquesf', message: 'Thanks for this reposity!! Programadores do Brasil, um salve 🤘' },
   { username: 'bgauduch', message:'Hacking the world 🤘'},
   { username: 'febridk', message:'Happy Hacktoberfest ❤️'},
   { username: 'shiv-am117', message: 'Happy open source contributioning :)' },
