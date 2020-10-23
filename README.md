@@ -60,3 +60,6 @@ https://theduckgallery.zenika.com
 
 This project is [Apache-2.0](./LICENSE.md) licensed.<br />
 Copyright © 2020 [Zenika](https://oss.zenika.com).
+
+
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
