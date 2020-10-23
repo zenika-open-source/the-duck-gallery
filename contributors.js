@@ -150,6 +150,7 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
+  { username: 'LorenAlonso', message:'Hacktoberfest 2020 :)'},
   { username: 'Rude-Monkey', message:'Fier De Présenter: Zenikanard-Licorne (Et Son Café) !!!'},
   { username: 'devmperso01', message: 'nice game for evry body' },
   { username: 'abishek-kafle', message:'Happy Hacktober fest 2020'},
