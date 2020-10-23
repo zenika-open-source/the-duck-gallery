@@ -8,6 +8,7 @@
  *
  * The message must be short and respect our code of conduct.
  */
+/* eslint no-unused-vars: "off" */
 var contributors = [
   { username: 'PrakalpTiwari137', message: 'Happy HacktoberFest 2020!!! Lets open source ;)' },
   { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
@@ -88,10 +89,8 @@ var contributors = [
   { username: 'loic5', message: 'Happy #Hacktoberfest2020!!!!!!!!!!!' },
   { username: 'jeanphibaconnais', message: 'Enjoy Hacktoberfest2020 ! 🤘' },
   { username: 'jlandure', message: '🎉 Happy Hacking 2020! 💚' },
-  { username: 'JoseRivera12', message: 'Happy coding ;)' },
   { username: 'Tazminia', message: 'Free PR for everyone' },
   { username: 'chocho01', message: '❤️🦆 & ❤️ Hacktoberfest' },
-  { username: 'JoseRivera12', message: 'Happy coding ;)' },
   { username: 'jbleduigou', message: 'Hello, Gophers!' },
   { username: "Fabianolvs", message: "Get away from js kids! Just kiding! XD" },
   { username: "werikgpaula", message: "🦆 Bee free" },
@@ -145,7 +144,10 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
-  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～('▽^人)'},
-  { username: 'pixelatedjelly', message:'Let's get quacking with Hacktoberfest 2020! 🦆'},
+  { username: 'pixelatedjelly', message:'Let‘s get quacking with Hacktoberfest 2020! 🦆'},
+  { username: 'OmBalar', message: 'Happy Hacktoberfest 2020 !' },
+  { username: 'Sachin-bot', message:'Happy Hacktober Fest 2020'},
+  { username: 'TheBossTH', message:'Happy Hacktober Fest 2020 ٩(^ᴗ^)۶'},
+  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'},
 ];
 
