@@ -40,6 +40,7 @@ function shuffle(array) {
   }
 }
 
+/* global contributors */
 count.innerText = contributors.length;
 
 shuffle(contributors);
