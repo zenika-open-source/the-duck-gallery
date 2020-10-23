@@ -136,10 +136,12 @@ var contributors = [
   { username: 'aditee-singh', message:'Happy Quacktober Fest :P'},
   { username: 'Taranys', message: 'No matter the bugs! No matter the issues! No matter what... K33P COD1NG 🍻' },
   { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'},
+
   { username: 'shelb-doc', message: 'Me and my Duck are Ready to Code! 🎃🦆	' },
   { username: 'tbetous', message:'Je collectionne des canards vivants ! ❤️🦆🎸🤘🎼🎵' },
   { username: 'Pratiksha0100', message: 'Stop acting so small. You are the universe in ecstatic motion!' },
   { username: 'cycy-realbeats', message:'OMG ! First PR EVER... Thank u ❤️'},
+  { username: 'Chaitali', message:'Happy Hacktoberfest'},
   { username: 'bowo-anakdesa', message:'Happy Hacktoberfest 2020 thanks for this repository ❤️'},
   { username: 'CelineLind', message: 'Happy Hacktoberfest Y\'all'},
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
