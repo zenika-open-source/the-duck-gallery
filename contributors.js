@@ -148,6 +148,7 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
+  { username: 'Giovannacm', message:'Happy Hacktoberfest 2020! Quack Quack!'},
   { username: 'Antoineoili', message: 'Loving Hacktoberfest 2020 🍻'},
   { username: 'MinorLess', message:'Happy HacktoberFest 2020!!!'},
   { username: 'D-Ono', message:'Believe in Yourself and Happy Hacktober Fest.' },
