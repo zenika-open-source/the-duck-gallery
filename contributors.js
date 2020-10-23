@@ -10,6 +10,7 @@
  */
 /* eslint no-unused-vars: "off" */
 var contributors = [
+  { username: 'GabrielaSinastre', message: 'Happy HacktoberFest 2020!!! SOFRO ;)' },
   { username: 'MaykonDouglas21', message: 'Yay, its my first HacktoberFest, hope yall enjoy it !! Go open source' },
   { username: 'Amagash', message: 'Have a great Hacktoberfest 2020! Happy coding!' },
   { username: 'PrakalpTiwari137', message: 'Happy HacktoberFest 2020!!! Lets open source ;)' },
