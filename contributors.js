@@ -10,6 +10,7 @@
  */
 /* eslint no-unused-vars: "off" */
 var contributors = [
+  { username: 'Amagash', message: 'Have a great Hacktoberfest 2020! Happy coding!' },
   { username: 'PrakalpTiwari137', message: 'Happy HacktoberFest 2020!!! Lets open source ;)' },
   { username: 'Kazeno21', message: 'Happy Hacktoberfest 2020:)' },
   { username: 'David-Lazaro-Fernandez', message: 'Ducky DucktoberFest 2020!!' },
@@ -135,16 +136,28 @@ var contributors = [
   { username: 'aditee-singh', message:'Happy Quacktober Fest :P'},
   { username: 'Taranys', message: 'No matter the bugs! No matter the issues! No matter what... K33P COD1NG 🍻' },
   { username: 'pyaillet', message:'\\_o< qwack qwack ! >o_/'},
+
   { username: 'shelb-doc', message: 'Me and my Duck are Ready to Code! 🎃🦆	' },
   { username: 'tbetous', message:'Je collectionne des canards vivants ! ❤️🦆🎸🤘🎼🎵' },
   { username: 'Pratiksha0100', message: 'Stop acting so small. You are the universe in ecstatic motion!' },
   { username: 'cycy-realbeats', message:'OMG ! First PR EVER... Thank u ❤️'},
+  { username: 'Chaitali', message:'Happy Hacktoberfest'},
   { username: 'bowo-anakdesa', message:'Happy Hacktoberfest 2020 thanks for this repository ❤️'},
   { username: 'CelineLind', message: 'Happy Hacktoberfest Y\'all'},
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
-  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'},
   { username: 'luanamarquesf', message: 'Thanks for this reposity!! Programadores do Brasil, um salve 🤘' },
+  { username: 'bgauduch', message:'Hacking the world 🤘'},
+  { username: 'febridk', message:'Happy Hacktoberfest ❤️'},
+  { username: 'shiv-am117', message: 'Happy open source contributioning :)' },
+  { username: 'Sweta271097', message: 'Hello Everyone! Happy Hacktoberfest2020! Dont let the pandemic affect your morale. Stay home, Stay safe' },
+  { username: 'FionaFR', message:'Happy Hacktober Fest 2020 and Keep Wearing Your Mask'},
+  { username: 'gabrielyong38', message: 'Having a quacking good time this hacktoberfest!' },
+  { username: 'pixelatedjelly', message:'Let‘s get quacking with Hacktoberfest 2020! 🦆'},
+  { username: 'OmBalar', message: 'Happy Hacktoberfest 2020 !' },
+  { username: 'Sachin-bot', message:'Happy Hacktober Fest 2020'},
+  { username: 'TheBossTH', message:'Happy Hacktober Fest 2020 ٩(^ᴗ^)۶'},
+  { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'},
 ];
 
