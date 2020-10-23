@@ -29,7 +29,7 @@ var contributors = [
   { username: 'bytesagar', message: 'Commit message not crime😁😉' },
   { username: 'lapalb', message: 'Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.' },
   { username: 'Kacimi-Amine', message: 'Happy Hacktoberfest 2020!' },
-  { username: 'Sweta Kabi', message: 'Things will get better soon !' },
+  { username: 'sweta98', message: 'Things will get better soon !' },
   { username: 'murilopereirame', message: 'Stay Home! Stop spreading COVID-19! You are not alone :) Happy hacking!' },
   { username: 'defuex', message: 'Austrias Next Ducky 2020!' },
   { username: 'David-Thapa', message: 'love the way duck smile😍' },
