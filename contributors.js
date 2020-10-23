@@ -144,7 +144,13 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
+  { username: 'Sweta271097', message: 'Hello Everyone! Happy Hacktoberfest2020! Dont let the pandemic affect your morale. Stay home, Stay safe' },
+  { username: 'FionaFR', message:'Happy Hacktober Fest 2020 and Keep Wearing Your Mask'},
+  { username: 'gabrielyong38', message: 'Having a quacking good time this hacktoberfest!' },
+  { username: 'pixelatedjelly', message:'Let‘s get quacking with Hacktoberfest 2020! 🦆'},
+  { username: 'OmBalar', message: 'Happy Hacktoberfest 2020 !' },
+  { username: 'Sachin-bot', message:'Happy Hacktober Fest 2020'},
+  { username: 'TheBossTH', message:'Happy Hacktober Fest 2020 ٩(^ᴗ^)۶'},
   { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'},
-  { username: 'Sweta271097', message: 'Hello Everyone! Happy Hacktoberfest2020! Dont let the pandemic affect your morale. Stay home, Stay safe' }
 ];
 
