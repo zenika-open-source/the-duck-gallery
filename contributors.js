@@ -199,5 +199,6 @@ var contributors = [
   { username: 'Sachin-bot', message:'Happy Hacktober Fest 2020'},
   { username: 'TheBossTH', message:'Happy Hacktober Fest 2020 ٩(^ᴗ^)۶'},
   { username: 'Chawklate', message:'Happy Hacktober Fest 2020 ♡ ～(\'▽^人)'},
+  { username: 'tintinmaster', message:'There are some who call me … Tim' },
 ];
 
