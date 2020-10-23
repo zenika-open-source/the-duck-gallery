@@ -149,6 +149,7 @@ var contributors = [
   { username: 'srevereault', message: '🦆 Le gentil canaaaaaaaaaaaaaaaard !' },
   { username: 'y0an', message: '🦆 H4PPY H4CK7083rF357 2020!! ❤️ Fr0M r3NN35 ' },
   { username: 'Riduidel', message:'Open-source will conquer the 🌍'},
+  { username: 'saguins', message: 'Coffee is my life. 🦆☕' },
   { username: 'etakao', message:'Stay safe, stay coding at home!'},
   { username: 'Zenigata', message:'Just Duck It 🦆'},
   { username: 'GitJooJ', message: 'Ducks are cool.' },
