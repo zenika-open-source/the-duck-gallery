@@ -203,5 +203,6 @@ var contributors = [
   { username: 'tintinmaster', message:'There are some who call me … Tim' },
   { username: 'yodur2potassium', message:'My new look as an office clerk! Happy Hacktoberfest2020' },
   { username: 'isthatcentered', message:'👨‍🍳🦆🤦‍' },
+  { username: 'Charlotte-29', message: Mon Zenikanard est disruptif, et j'aime ça' },
 ];
 
