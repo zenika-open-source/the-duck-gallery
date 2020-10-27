@@ -173,6 +173,7 @@ var contributors = [
   { username: 'vinijabes', message:'We are borg!'},
   { username: 'subedibimal', message: 'Happy Hacktoberfest 2020 :) !!' },
   { username: 'GiuliaCampos', message: 'Don’t blink 😉' },
+  { username: 'luizgt', message: 'Quack! Quack!' },
   { username: 'CaduSantana', message: 'It was scary to go alone, glad i took this!' },
   { username: 'Willendes', message:'Happy Hacktober Fest and Quack for all!!  s2 '},
   { username: 'karoldm', message:'Happy Hacktober Fest 2020 for everyone! ❤️'},
@@ -204,5 +205,7 @@ var contributors = [
   { username: 'yodur2potassium', message:'My new look as an office clerk! Happy Hacktoberfest2020' },
   { username: 'isthatcentered', message:'👨‍🍳🦆🤦‍' },
   { username: 'gfeun', message:'Never too late, happy hacktoberfest !' },
+  { username: 'anaellezenika', message:'Happy DuckBerfest' },
+  { username: 'patou', message:'My duck for the hacktoberfest' },
 ];
 
