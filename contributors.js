@@ -204,6 +204,7 @@ var contributors = [
   { username: 'tintinmaster', message:'There are some who call me … Tim' },
   { username: 'yodur2potassium', message:'My new look as an office clerk! Happy Hacktoberfest2020' },
   { username: 'isthatcentered', message:'👨‍🍳🦆🤦‍' },
+  { username: 'Gosunet', message: 'French terminator 🤘' },
   { username: 'Charlotte-29', message: 'Mon Zenikanard est disruptif, et j’aime ça' },
   { username: 'helliz29', message:'Happy Rockin Hacktober Fest !' },
   { username: 'gfeun', message:'Never too late, happy hacktoberfest !' },
