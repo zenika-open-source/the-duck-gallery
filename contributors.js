@@ -203,6 +203,7 @@ var contributors = [
   { username: 'tintinmaster', message:'There are some who call me … Tim' },
   { username: 'yodur2potassium', message:'My new look as an office clerk! Happy Hacktoberfest2020' },
   { username: 'isthatcentered', message:'👨‍🍳🦆🤦‍' },
+  { username: 'anaellezenika', message:'Happy DuckBerfest' },
   { username: 'patou', message:'My duck for the hacktoberfest' },
 ];
 
