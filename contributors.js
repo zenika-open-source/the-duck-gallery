@@ -210,5 +210,6 @@ var contributors = [
   { username: 'gfeun', message:'Never too late, happy hacktoberfest !' },
   { username: 'anaellezenika', message:'Happy DuckBerfest' },
   { username: 'patou', message:'My duck for the hacktoberfest' },
+  { username: 'madd-scientist', message:'Ahoy!' },
 ];
 
