@@ -211,6 +211,7 @@ var contributors = [
   { username: 'gfeun', message:'Never too late, happy hacktoberfest !' },
   { username: 'anaellezenika', message:'Happy DuckBerfest' },
   { username: 'patou', message:'My duck for the hacktoberfest' },
+  { username: 'gsiradze', message:'Happy Hacktober Fest 2020 ^.^' },
   { username: 'gustavobecelli', message: 'Can i get a coffee?' },
   { username: 'madd-scientist', message:'Ahoy!' },
   { username: 'RohanTheProgrammer' , message: 'Hacktoberfest 2020 seems ducky'},
