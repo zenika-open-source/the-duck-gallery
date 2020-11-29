@@ -218,5 +218,6 @@ var contributors = [
   { username: 'ThompsonBethany01', message:'Thank you for the cute ducky generator! Love this :)' },
   { username: 'rahul2240', message:'Happy Hacktoberfest !' },
   { username: 'jermarchand', message: 'J avance masqué' },
+  { username: 'avashForReal', message: 'I am late'}
 ];
 
