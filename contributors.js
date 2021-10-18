@@ -12,6 +12,7 @@
 var contributors = [
     { username: 'Tegridy', message: 'Happy Hacktoberfest 2021!!!' },
     { username: 'bgauduch', message: 'Keep OSS rocking !' },
-    { username: 'jasjuslover', message: 'This is my first hacktoberfest! :)' }
+    { username: 'jasjuslover', message: 'This is my first hacktoberfest! :)' },
+    { username: 'fmachen', message: 'Ready to code! :)' }
 ];
 
