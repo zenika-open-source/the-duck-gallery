@@ -10,6 +10,7 @@
  */
 /* eslint no-unused-vars: "off" */
 var contributors = [
- { username: 'Tegridy', message: 'Happy Hacktoberfest 2021!!!' }
+    { username: 'Tegridy', message: 'Happy Hacktoberfest 2021!!!' },
+    { username: 'bgauduch', message: 'Keep OSS rocking !' }
 ];
 
