@@ -19,5 +19,7 @@ var contributors = [
     { username: 'fmachen', message: 'Ready to code! :)' },
     { username: 'loic5', message: 'Happy Hacktoberfest 2021!!!' },
     { username: 'JuliaLehoux', message: '🥳🦆' },
-    { username: 'MawsFr', message: 'OOOOSSSS 🙏!' }
+    { username: 'MawsFr', message: 'OOOOSSSS 🙏!' },
+    { username: 'CaioSouzalimaa', message: 'OOOOSSSS 🙏!' }
+  
 ];
