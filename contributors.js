@@ -11,6 +11,7 @@
 /* eslint no-unused-vars: "off" */
 var contributors = [
     { username: 'jeanphibaconnais', message: '🎃 Happy Hacktoberfest!' },
+    { username: 'jeanlamarre16', message: 'hacktoberfest with zenika'},
     { username: 'CaioSouzalimaa', message: 'OOOOSSSS 🙏!' },
     { username: 'sanvisharma003', message: 'happy hacktoberfest 2022' },
     { username: 'zed=964', message: 'Hello Hacktoberfest !' },
