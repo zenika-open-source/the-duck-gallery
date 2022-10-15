@@ -17,5 +17,6 @@ var contributors = [
     { username: 'AlphaKappa44', message: 'Happy ZenicktobaFest\'22' },
     { username: 'zed=964', message: 'Hello Hacktoberfest !' },
     { username: 'YTBeater', message: 'It kinda great when it eazy #hacktoberfest22' },
-    { username: 'karoldm', message: 'happy hacktoberfest :)' }
+    { username: 'karoldm', message: 'happy hacktoberfest :)' },
+    { username: 'GabrielaSinastre', message: 'happy hacktoberfest to youuu :)' }
 ];
