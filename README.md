@@ -26,16 +26,32 @@ Then follow the steps shown in [this video](https://theduckgallery.zenika.com/ho
 ### The developer way to contribute
 
 1. Go to https://pimpmyduck.zenika.com and create your own duck.
-2. Export it to an image (use the download button).
-3. Fork [this repository](https://github.com/zenika-open-source/the-duck-gallery) and clone it.
-4. Add your image into the `ducks/` folder, with your GitHub username as filename (ex: `your-username.png`).
-5. Into the `contributors.js` file add a line with your GitHub username and a short message.
+2. Export it to an image (use the ***download*** button).
+3. Fork [this repository](https://github.com/zenika-open-source/the-duck-gallery). Go to your GitHub account, open the forked repository.
+4. Click on the ***Code*** button and then click the copy to clipboard icon.
+   Open a terminal and run the following git command:
+
+> git clone "**url you just copied**"
+
+5. Change to the repository directory on your computer (if you are not already there):
+
+> cd the-duck-gallery
+
+6. Now create a branch using the git switch command:
+
+> git switch -c **your-new-branch-name**
+
+7. Add your image into the `ducks/` folder, with your GitHub username as filename (ex: `your-username.png`).
+8. Into the `contributors.js` file add a line with your GitHub username and a short message.
 
 ```js
   { username: 'your-username', message: 'Say something kind or fun' },
 ```
 
 6. Commit and push your modifications.
+
+> git push origin -u **your-branch-name**
+
 7. Create a PR.
 
 That's it :tada: We will review and merge it if everything is OK :+1:
