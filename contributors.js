@@ -28,6 +28,6 @@ var contributors = [
     { username: 'Kritiji', message: 'Happy Hacktoberfest!! <3' },
     { username: 'KCmean', message: 'I Love Coffee and Spaghetti!!' },
     { username: 'henriquequintana', message: 'Happy Hacktoberfest 2022!! :D' },
-    { username: 'dhruv2003', message: 'I Love Gaming' }
+    { username: 'dhruv2003', message: 'I Love Gaming' },
     { username: 'Igorjr19', message: 'Happy Hacktoberfest 2022!' }
 ];
