@@ -32,5 +32,6 @@ var contributors = [
     { username: 'dhruv2003', message: 'I Love Gaming' },
     { username: 'lukastorresu', message: 'Happy Hacktoberfest yall :)' },
     { username: 'Igorjr19', message: 'Happy Hacktoberfest 2022!' },
-    { username: 'aryan-parmar', message: 'I love Cats, zenitsu fan'}
+    { username: 'aryan-parmar', message: 'I love Cats, zenitsu fan'},
+    { username: 'puncky_ducky_bt', message: 'Hello from HackOctober Fest, drink beer and love duck !' }
 ];
