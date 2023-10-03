@@ -9,8 +9,8 @@
  * The message must be short and respect our code of conduct.
  */
 /* eslint no-unused-vars: "off" */
-var contributors = [  { username: 'diana', message: 'Oupps,first time for me' },
-
+var contributors = [ 
+  { username: 'diana4944', message: 'Oupps,first time for me' },
   { username: 'jeanphibaconnais', message: '🎃 Happy Hacktoberfest!' },
     { username: 'jeanlamarre16', message: 'hacktoberfest with zenika' },
     { username: 'CaioSouzalimaa', message: 'OOOOSSSS 🙏!' },
