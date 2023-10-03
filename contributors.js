@@ -36,5 +36,5 @@ var contributors = [
     { username: 'HeleneAmouzou', message: 'Happy Hacktoberfest 2023 ! :)' },
     { username: 'Zohera44', message:'Hello'},
     { username: 'GwenNicolas', message: 'My first Hacktoberfest!!! <3'},
-    { username: 'HeleneAmouzou', message: 'Happy Hacktoberfest 2023 ! :)' }
+    { username: 'Azertoth', message: 'Les canards vaincront !!' }
 ];
