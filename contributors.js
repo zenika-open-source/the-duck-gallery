@@ -9,8 +9,9 @@
  * The message must be short and respect our code of conduct.
  */
 /* eslint no-unused-vars: "off" */
-var contributors = [
-    { username: 'jeanphibaconnais', message: '🎃 Happy Hacktoberfest!' },
+var contributors = [ 
+  { username: 'diana4944', message: 'Oupps,first time for me' },
+  { username: 'jeanphibaconnais', message: '🎃 Happy Hacktoberfest!' },
     { username: 'jeanlamarre16', message: 'hacktoberfest with zenika' },
     { username: 'CaioSouzalimaa', message: 'OOOOSSSS 🙏!' },
     { username: 'sanvisharma003', message: 'happy hacktoberfest 2022' },
@@ -34,5 +35,9 @@ var contributors = [
     { username: 'Igorjr19', message: 'Happy Hacktoberfest 2022!' },
     { username: 'aryan-parmar', message: 'I love Cats, zenitsu fan'},
     { username: 'Momok0', message: 'Drink beer & love Duck.'}
-
+    { username: 'HeleneAmouzou', message: 'Happy Hacktoberfest 2023 ! :)' },
+    { username: 'Zohera44', message:'Hello'},
+    { username: 'GwenNicolas', message: 'My first Hacktoberfest!!! <3'},
+    { username: 'Azertoth', message: 'Les canards vaincront !!' },
+    { username: 'Reayz', message: 'Hello World!!!' }
 ];
