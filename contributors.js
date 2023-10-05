@@ -16,6 +16,6 @@ var contributors = [
     { username: 'Azertoth', message: 'Les canards vaincront !!' },
     { username: 'diana4944', message: 'Oupps,first time for me' },
     { username: 'Reayz', message: 'Hello World!!!' },
-    { username: 'gouz', message: 'Hacktoberfest 2023! Happy OpenSource Month!' }
+    { username: 'gouz', message: 'Hacktoberfest 2023! Happy OpenSource Month!' },
     { username: 'ankushbhardwaj408', message: 'First contribution!!' }
 ];
