@@ -20,5 +20,7 @@ var contributors = [
     { username: 'ankushbhardwaj408', message: 'First contribution!!' },
     { username: 'd-coder111', message: 'Happy Learning ✌!!' },
     { username: 'reverb001', message: 'Hacky Sack Oct 2023!' },
-    { username: 'Mradula-Mittal', message: 'It is fun! Happy Hacktoberfest !' }
+    { username: 'Mradula-Mittal', message: 'It is fun! Happy Hacktoberfest !' },
+    { username: 'kahenya-anita', message: 'Open sauced!' },
+    { username: 'manojna191', message: 'Believe in yourself, you will do it ⭐' }
 ];
