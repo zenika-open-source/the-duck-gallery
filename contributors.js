@@ -17,5 +17,10 @@ var contributors = [
     { username: 'diana4944', message: 'Oupps,first time for me' },
     { username: 'Reayz', message: 'Hello World!!!' },
     { username: 'gouz', message: 'Hacktoberfest 2023! Happy OpenSource Month!' },
-    { username: 'Kunal-511', message: 'Happy Hacking hacktoberfest 2023!' }
+    { username: 'Kunal-511', message: 'Happy Hacking hacktoberfest 2023!' },
+    { username: 'reverb001', message: 'Hacky Sack Oct 2023!' },
+    { username: 'ankushbhardwaj408', message: 'First contribution!!' },
+    { username: 'd-coder111', message: 'Happy Learning ✌!!' },
+    { username: 'reverb001', message: 'Hacky Sack Oct 2023!' },
+    { username: 'manojna191', message: 'Believe in yourself, you will do it ⭐' }
 ];
