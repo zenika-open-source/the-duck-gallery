@@ -22,5 +22,6 @@ var contributors = [
     { username: 'reverb001', message: 'Hacky Sack Oct 2023!' },
     { username: 'Mradula-Mittal', message: 'It is fun! Happy Hacktoberfest !' },
     { username: 'kahenya-anita', message: 'Open sauced!' },
-    { username: 'manojna191', message: 'Believe in yourself, you will do it ⭐' }
+    { username: 'manojna191', message: 'Believe in yourself, you will do it ⭐' },
+    { username: 'jeanphi-baconnais', message: 'Happy Hacktoberfest 2023 🎉' }
 ];
