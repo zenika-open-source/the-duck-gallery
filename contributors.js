@@ -18,7 +18,6 @@ var contributors = [
     { username: 'Reayz', message: 'Hello World!!!' },
     { username: 'gouz', message: 'Hacktoberfest 2023! Happy OpenSource Month!' },
     { username: 'ankushbhardwaj408', message: 'First contribution!!' },
-    { username: 'reverb001', message: 'Hacky Sack Oct 2023!' },
     { username: 'DevAgrawal04', message: 'git push --force' },
     { username: 'd-coder111', message: 'Happy Learning ✌!!' },
     { username: 'reverb001', message: 'Hacky Sack Oct 2023!' }
