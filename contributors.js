@@ -18,10 +18,13 @@ var contributors = [
     { username: 'Reayz', message: 'Hello World!!!' },
     { username: 'gouz', message: 'Hacktoberfest 2023! Happy OpenSource Month!' },
     { username: 'ankushbhardwaj408', message: 'First contribution!!' },
+    { username: 'DevAgrawal04', message: 'git push --force' },
     { username: 'd-coder111', message: 'Happy Learning ✌!!' },
+    { username: 'ikunal-04', message: 'Happy Hacktoberfest! :)' },
     { username: 'reverb001', message: 'Hacky Sack Oct 2023!' },
     { username: 'Mradula-Mittal', message: 'It is fun! Happy Hacktoberfest !' },
     { username: 'kahenya-anita', message: 'Open sauced!' },
     { username: 'manojna191', message: 'Believe in yourself, you will do it ⭐' },
-    { username: 'jeanphi-baconnais', message: 'Happy Hacktoberfest 2023 🎉' }
+    { username: 'jeanphi-baconnais', message: 'Happy Hacktoberfest 2023 🎉' },
+    { username: 'Brij247', message: 'Happy Coding' }
 ];
