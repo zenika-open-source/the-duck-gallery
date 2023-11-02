@@ -26,5 +26,6 @@ var contributors = [
     { username: 'kahenya-anita', message: 'Open sauced!' },
     { username: 'manojna191', message: 'Believe in yourself, you will do it ⭐' },
     { username: 'jeanphi-baconnais', message: 'Happy Hacktoberfest 2023 🎉' },
-    { username: 'Brij247', message: 'Happy Coding' }
+    { username: 'Brij247', message: 'Happy Coding' },
+    { username: 'mandeep-s1ngh', message: 'Happy Ducktoberfest!' }
 ];
