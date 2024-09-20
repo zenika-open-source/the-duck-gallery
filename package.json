@@ -4,9 +4,11 @@
   "license": "Apache-2.0",
   "private": true,
   "scripts": {
-    "start": "serve"
+    "start": "serve",
+    "lint": "eslint ."
   },
   "devDependencies": {
+    "eslint": "^8.57.1",
     "serve": "^11.3.2"
   }
 }
