@@ -1,33 +1,39 @@
 # Compress images on demand (workflow_dispatch), and at 11pm every Sunday (schedule).
 # Open a pull request if any images can be compressed
-name: Images
+name: Optimize images
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '00 23 * * 0'
+
 jobs:
-  build:
-    name: Optimize
+  optimize-images:
+    name: Optimize images
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@master
+        uses: actions/checkout@v4
+
       - name: Resize images
         uses: xprilion/img-resizer-inplace@v1
         with:
           target: ducks
           dimensions: 300x300
+
       - name: Compress Images
         id: calibre
-        uses: calibreapp/image-actions@master
+        uses: calibreapp/image-actions@v1
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
           pngQuality: '95'
+
       - name: Create New Pull Request If Needed
-        uses: peter-evans/create-pull-request@master
+        uses: peter-evans/create-pull-request@v7
         with:
-          title: Compressed Images Nightly
+          title: '🍱 Auto optimize images'
           branch-suffix: timestamp
-          commit-message: Compressed Images
+          commit-message: '🍱 Auto optimize images'
           body: ${{ steps.calibre.outputs.markdown }}
