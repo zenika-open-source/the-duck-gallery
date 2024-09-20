@@ -32,7 +32,7 @@ Then follow the steps shown in [this video](https://theduckgallery.zenika.com/ho
 5. Into the `contributors.js` file add a line with your GitHub username and a short message.
 
 ```js
-  { username: 'your-username', message: 'Say something kind or fun' },
+	{ username: 'your-username', message: 'Say something kind or fun' },
 ```
 
 6. Commit and push your modifications.

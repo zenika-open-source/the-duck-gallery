@@ -1,26 +1,26 @@
 {
-  "name": "The Duck Gallery",
-  "short_name": "The Duck Gallery",
-  "description": "Contribute and add your Zenikanard to the gallery",
-  "start_url": ".",
-  "theme_color": "#333333",
-  "background_color": "#ffffff",
-  "display": "standalone",
-  "icons": [
-    {
-      "src": "assets/icon-32x32.png",
-      "sizes": "32x32",
-      "type": "image/png"
-    },
-    {
-      "src": "assets/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "assets/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+	"name": "The Duck Gallery",
+	"short_name": "The Duck Gallery",
+	"description": "Contribute and add your Zenikanard to the gallery",
+	"start_url": ".",
+	"theme_color": "#333333",
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"icons": [
+		{
+			"src": "assets/icon-32x32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/icon-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
 }
