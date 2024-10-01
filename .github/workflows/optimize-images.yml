@@ -28,7 +28,7 @@ jobs:
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
           compressOnly: true
-          pngQuality: '95'
+          webpQuality: '95'
 
       - name: Create New Pull Request If Needed
         uses: peter-evans/create-pull-request@v7
