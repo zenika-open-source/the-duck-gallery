@@ -11,6 +11,7 @@
 
 const contributors = [
   { username: 'yannbertrand', message: 'Hello, world!' },
+  { username: 'adrilabelle', message: 'First Open Source baby!' },
   { username: 'gudsfile', message: 'Ça écoute Zenikast oéoé' },
 	{ username: 'SahilShaw2004', message: 'First pr hopefully for hacktoberfest' }
 ];
