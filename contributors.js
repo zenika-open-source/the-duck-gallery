@@ -11,4 +11,5 @@
 
 const contributors = [
   { username: 'yannbertrand', message: 'Hello, world!' },
+  { username: 'gudsfile', message: 'Ça écoute Zenikast oéoé' },
 ];
