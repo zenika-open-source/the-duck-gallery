@@ -10,5 +10,5 @@
  */
 
 const contributors = [
-  { username: 'yannbertrand', message: 'Hello, world!' },
+  { username: 'adrilabelle', message: 'First Open Source baby!' },
 ];
