@@ -15,6 +15,7 @@ const contributors = [
   { username: 'adrilabelle', message: 'First Open Source baby!' },
   { username: 'gudsfile', message: 'Ça écoute Zenikast oéoé' },
 	{ username: 'SahilShaw2004', message: 'First pr hopefully for hacktoberfest' },
+	{ username: 'zeroual', message: 'Hellow hacktoberfest from Morocco!' },
   { username: 'FaustineG', message: 'Coucou le Discord :)' },
   { username: 'JollyJolli', message: 'Cuak, Cuak!' },
 ];
