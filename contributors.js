@@ -18,4 +18,5 @@ const contributors = [
 	{ username: 'zeroual', message: 'Hellow hacktoberfest from Morocco!' },
   { username: 'FaustineG', message: 'Coucou le Discord :)' },
   { username: 'JollyJolli', message: 'Cuak, Cuak!' },
+  { username: 'JayShukla8', message: 'Autumn\'s here!' }
 ];
