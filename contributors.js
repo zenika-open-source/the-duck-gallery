@@ -15,7 +15,11 @@ const contributors = [
   { username: 'adrilabelle', message: 'First Open Source baby!' },
   { username: 'gudsfile', message: 'Ça écoute Zenikast oéoé' },
 	{ username: 'SahilShaw2004', message: 'First pr hopefully for hacktoberfest' },
+	{ username: 'zeroual', message: 'Hellow hacktoberfest from Morocco!' },
   { username: 'FaustineG', message: 'Coucou le Discord :)' },
   { username: 'JollyJolli', message: 'Cuak, Cuak!' },
-  { username: 'Florebrlr', message: 'ma contribution canard' }
+  { username: 'Florebrlr', message: 'ma contribution canard' },
+  { username: 'JayShukla8', message: 'Autumn\'s here!' },
+  { username: 'SameerKhans13', message: 'Happy Hacktoberfest-24 to all!' },
+  { username: 'rishi-harti768', message: 'Happy Hacktoberfest guys! cheers'}
 ];
