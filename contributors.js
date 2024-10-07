@@ -23,4 +23,5 @@ const contributors = [
   { username: 'SameerKhans13', message: 'Happy Hacktoberfest-24 to all!' },
   { username: 'rishi-harti768', message: 'Happy Hacktoberfest guys! cheers'},
   { username: 'Hathaipach', message: 'Happy Hacktoberfest 2024'}
+  { username: 'Astro-Dude', message: 'print('Happy Hacktoberfest-24 to all!'); if (prMerged): print('Happy') else: print('please, accept')'}
 ];
