@@ -22,5 +22,6 @@ const contributors = [
   { username: 'JayShukla8', message: 'Autumn\'s here!' },
   { username: 'SameerKhans13', message: 'Happy Hacktoberfest-24 to all!' },
   { username: 'rishi-harti768', message: 'Happy Hacktoberfest guys! cheers'},
-  { username: 'Hathaipach', message: 'Happy Hacktoberfest 2024'}
+  { username: 'Hathaipach', message: 'Happy Hacktoberfest 2024'},
+  { username: 'THE-ASHUTOSH', message: 'Happy Hacktoberfest 2024 all'}
 ];
