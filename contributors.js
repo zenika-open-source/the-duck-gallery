@@ -27,4 +27,5 @@ const contributors = [
   { username: 'exilonium', message: 'The element of lie'},
   { username: 'Astro-Dude', message: 'print(Happy Hacktoberfest 2024!!)'},
   { username: '2ephir', message: 'May the Force be with you, always.' },
+  { username: 'alienx5499', message: 'A humble alien here to spread good vibes! Happy Hacktoberfest 2024, Earthlings!' },
 ];
