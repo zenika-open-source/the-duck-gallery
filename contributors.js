@@ -30,4 +30,6 @@ const contributors = [
   { username: 'alienx5499', message: 'A humble alien here to spread good vibes! Happy Hacktoberfest 2024, Earthlings!' },
 	{ username: 'SammyUrfen', message: 'Forget AI takeover. Duck takeover is more imminent' },
   { username: 'Durgeshwar-AI', message: 'Keep the smile' },
+  { username: 'SubhanRahiman7', message: 'Why don’t skeletons fight each other at Hacktoberfest 2024? Because they don’t have the guts to squash those bugs!' }
+  
 ];
