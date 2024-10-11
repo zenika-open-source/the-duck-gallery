@@ -10,6 +10,7 @@
  */
 
 const contributors = [
+  { username: 'ItsAJ1005', message: 'Ducks may take over the world someday, LOL...' },
   { username: 'yannbertrand', message: 'Hello, world!' },
   { username: 'jeanphibaconnais', message: 'Happy Hacktoberfest 24! 🤘' },
   { username: 'adrilabelle', message: 'First Open Source baby!' },
