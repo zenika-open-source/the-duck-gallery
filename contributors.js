@@ -30,6 +30,7 @@ const contributors = [
   { username: 'alienx5499', message: 'A humble alien here to spread good vibes! Happy Hacktoberfest 2024, Earthlings!' },
 	{ username: 'SammyUrfen', message: 'Forget AI takeover. Duck takeover is more imminent' },
   { username: 'Durgeshwar-AI', message: 'Keep the smile' },
+  { username: 'SubhanRahiman7', message: ' :) ' },
   { username: 'RAj5517', message: 'keep growing' },
   { username: 'vaibhavm0504', message:'what a duck' },
   { username: 'anisha-singhal', message:'Thanks for this repo, Happy Hacktoberfest' },
