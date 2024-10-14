@@ -39,4 +39,5 @@ const contributors = [
   { username: 'Jasneet-09', message:'Happy Hacktoberfest 24!' },
   { username: 'Dhruv-Davda', message:'Good Wishes Everyone' },
   { username: 'Piyush-Goenka', message:'October is hacked' },
+  { username: 'MeuHubPython', message: 'My duck is the best! Happy Hacktoberfest!' },
 ];
