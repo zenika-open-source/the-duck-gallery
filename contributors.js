@@ -40,4 +40,5 @@ const contributors = [
   { username: 'Dhruv-Davda', message:'Good Wishes Everyone' },
   { username: 'Piyush-Goenka', message:'October is hacked' },
   { username: 'MeuHubPython', message: 'My duck is the best! Happy Hacktoberfest!' },
+  { username: 'Kartikey060105', message: 'What the duck 𓅭' },
 ];
