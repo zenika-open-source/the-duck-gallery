@@ -27,6 +27,7 @@ const contributors = [
   { username: 'THE-ASHUTOSH', message: 'Happy Hacktoberfest 2024 all'},
   { username: 'exilonium', message: 'The element of lie'},
   { username: 'Astro-Dude', message: 'print(Happy Hacktoberfest 2024!!)'},
+  { username: 'G-SaiVishwas', message: 'Hacktoberfest 2024 is Amazing!'},
   { username: '2ephir', message: 'May the Force be with you, always.' },
   { username: 'alienx5499', message: 'A humble alien here to spread good vibes! Happy Hacktoberfest 2024, Earthlings!' },
 	{ username: 'SammyUrfen', message: 'Forget AI takeover. Duck takeover is more imminent' },
