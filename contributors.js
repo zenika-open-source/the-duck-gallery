@@ -29,6 +29,7 @@ const contributors = [
   { username: 'AbhijeetPatil2005', message: 'Happy Hactoberfest 2024 to everyone'},
   { username: 'Astro-Dude', message: 'print(Happy Hacktoberfest 2024!!)'},
   { username: 'G-SaiVishwas', message: 'Hacktoberfest 2024 is Amazing!'},
+  { username: 'Aryan-Bhendarkar', message: 'Hacktoberfest...!!'},
   { username: 'ashu273k', message: 'My duck loves to hangout with cs50 duck!'},
   { username: '2ephir', message: 'May the Force be with you, always.' },
   { username: 'alienx5499', message: 'A humble alien here to spread good vibes! Happy Hacktoberfest 2024, Earthlings!' },
