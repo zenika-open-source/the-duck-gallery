@@ -47,5 +47,6 @@ const contributors = [
   { username: 'KrishnaShuk', message:'Thanks for this repo, Happy Hacktoberfest 2024!!!' },
   { username: 'Kartikey060105', message: 'What the duck 𓅭' },
   { username: 'xnisha-verma', message: 'Cheers to Hacktoberfest 2024 :)' },
-  { username: 'AstheticKaif', message: '😎Cheerss!!' }
+  { username: 'AstheticKaif', message: '😎Cheerss!!' },
+  { username: 'AhmadAnzar', message: 'Yayy! This is my First Commit 🥳🥳' }
 ];
