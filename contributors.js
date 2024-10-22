@@ -12,6 +12,7 @@
 const contributors = [
   { username: 'ItsAJ1005', message: 'Ducks may take over the world someday, LOL...' },
   { username: 'yannbertrand', message: 'Hello, world!' },
+  { username: 'R0Y15', message: 'Quack Quack Quack' },
   { username: 'jeanphibaconnais', message: 'Happy Hacktoberfest 24! 🤘' },
   { username: 'adrilabelle', message: 'First Open Source baby!' },
   { username: 'gudsfile', message: 'Ça écoute Zenikast oéoé' },
