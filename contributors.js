@@ -48,4 +48,5 @@ const contributors = [
   { username: 'Kartikey060105', message: 'What the duck 𓅭' },
   { username: 'xnisha-verma', message: 'Cheers to Hacktoberfest 2024 :)' },
   { username: 'AstheticKaif', message: '😎Cheerss!!' }
+  { username: 'Saniya1613', message: 'happiee Hacktoberfest 2024 ! lesgoo duckies:)' },
 ];
