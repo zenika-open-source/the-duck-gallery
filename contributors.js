@@ -56,5 +56,6 @@ const contributors = [
   { username: 'Raghavendra1729-cell', message: 'first push' },
   { username: 'AhmadAnzar', message: 'Yayy! This is my First Commit 🥳🥳' },
   { username: 'Sidd-hant13', message: 'hip hip hurray, hacktoberfest 2024!' },
-  { username: 'Shreyhac', message: 'happy coding' }
+  { username: 'Shreyhac', message: 'happy coding' },
+  { username: 'srujangowda07', message: 'First Request' }
 ];
