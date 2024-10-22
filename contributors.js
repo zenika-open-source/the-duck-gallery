@@ -23,6 +23,7 @@ const contributors = [
   { username: 'JayShukla8', message: 'Autumn\'s here!' },
   { username: 'SameerKhans13', message: 'Happy Hacktoberfest-24 to all!' },
   { username: 'rishi-harti768', message: 'Happy Hacktoberfest guys! cheers'},
+   { username: 'sad duck', message: 'my duck is really sad , he want a female duck'},
   { username: 'Hathaipach', message: 'Happy Hacktoberfest 2024'},
   { username: 'THE-ASHUTOSH', message: 'Happy Hacktoberfest 2024 all'},
   { username: 'exilonium', message: 'The element of lie'},
