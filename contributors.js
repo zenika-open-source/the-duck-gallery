@@ -49,6 +49,7 @@ const contributors = [
   { username: 'Kartikey060105', message: 'What the duck 𓅭' },
   { username: 'xnisha-verma', message: 'Cheers to Hacktoberfest 2024 :)' },
   { username: 'AstheticKaif', message: '😎Cheerss!!' },
+  { username: 'Krupakar-Reddy-S', message: 'Keeping it chill and coding in style! 😎' },
   { username: 'Raghavendra1729-cell', message: 'first push' },
   { username: 'AhmadAnzar', message: 'Yayy! This is my First Commit 🥳🥳' },
   { username: 'Sidd-hant13', message: 'hip hip hurray, hacktoberfest 2024!' },
