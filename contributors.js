@@ -59,11 +59,15 @@ const contributors = [
   { username: 'Sidd-hant13', message: 'hip hip hurray, hacktoberfest 2024!' },
   { username: 'Shreyhac', message: 'happy coding' },
   { username: 'srujangowda07', message: 'First Request' },
-  { username: 'sohailshk', message: 'First pr hopefully for hacktoberfest2024' },
   { username: 'anushkabhansalii', message: 'Keep smiling!' },
   { username: 'sohailshk', message: 'First pr hopefully for hacktoberfest2024' },
   { username: 'snehachandra1108', message: 'First Hacktober' },
-  { username: 'its-wasp', message: 'I\'m the hecker boi'}
-  
+  { username: 'aastik-gg', message: 'Keep contributing' },
+  { username: 'its-wasp', message: 'I\'m the hecker boi'},
+  { username: 'Karthikeya914', message: 'Duck Duck' },
+  { username: 'saicharan7284', message: ' i.am__atomic '},
+  { username: 'milesmoralis2411', message: 'Lesss gooo duckkk'},
+  { username: 'nVedaVarshit', message: 'last of october my First Hacktober' },
+  { username: 'o10j19', message: 'print(Happy Hacktoberfest 2024!!)'},
   { username: 'Nirbhay-kr24', message: 'My first PR Hacktoberfest 2024'}
 ];
