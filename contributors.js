@@ -10,7 +10,6 @@
  */
 
 const contributors = [
-  https://github.com/zenika-open-source/the-duck-gallery
   { username: 'ItsAJ1005', message: 'Ducks may take over the world someday, LOL...' },
   { username: 'yannbertrand', message: 'Hello, world!' },
   { username: 'R0Y15', message: 'Quack Quack Quack' },
