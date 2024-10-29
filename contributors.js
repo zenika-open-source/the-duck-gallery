@@ -65,4 +65,5 @@ const contributors = [
   { username: 'snehachandra1108', message: 'First Hacktober' },
   { username: 'its-wasp', message: 'I\'m the hecker boi'},
   { username: 'Karthikeya914', message: 'Duck Duck' },
+  { username: 'Karthikeya914', message: 'Duck Quack' },
 ];
