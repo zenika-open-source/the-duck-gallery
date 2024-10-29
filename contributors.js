@@ -10,6 +10,7 @@
  */
 
 const contributors = [
+  https://github.com/zenika-open-source/the-duck-gallery
   { username: 'ItsAJ1005', message: 'Ducks may take over the world someday, LOL...' },
   { username: 'yannbertrand', message: 'Hello, world!' },
   { username: 'R0Y15', message: 'Quack Quack Quack' },
@@ -65,4 +66,5 @@ const contributors = [
   { username: 'snehachandra1108', message: 'First Hacktober' },
   { username: 'its-wasp', message: 'I\'m the hecker boi'}
   { username: 'milesmoralis2411', message: 'Lesss gooo duckkk'}
+  { username: 'o10j19', message: 'print(Happy Hacktoberfest 2024!!)'},
 ];
