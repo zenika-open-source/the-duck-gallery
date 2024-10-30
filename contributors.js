@@ -72,4 +72,5 @@ const contributors = [
   { username: 'Nirbhay-kr24', message: 'My first PR Hacktoberfest 2024'},
   { username: 'anki1317', message: 'Happy Hacktoberfest 2024!'},
   { username: 'Yeashu', message: 'Hello Hacktoberfest. Here my journey begin'}
+  { username: 'SayedZahur786', message: 'Hello Zenika, Thanks for this Pr'}
 ];
