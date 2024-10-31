@@ -74,5 +74,6 @@ const contributors = [
   { username: 'anki1317', message: 'Happy Hacktoberfest 2024!'},
   { username: 'Yeashu', message: 'Hello Hacktoberfest. Here my journey begin'},
   { username: 'sanaa-duhh', message: 'starting my hacktoberfest journey with this one'},
-  { username: 'SayedZahur786', message: 'Hello Zenika, Thanks for this Pr'}
+  { username: 'SayedZahur786', message: 'Hello Zenika, Thanks for this Pr'},
+  { username: 'darshanbagade', message: 'Quality is like a duck : smooth on the surface, but paddling hard beneath.'}
 ];
