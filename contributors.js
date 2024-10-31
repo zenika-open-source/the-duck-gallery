@@ -73,11 +73,10 @@ const contributors = [
   { username: 'Nirbhay-kr24', message: 'My first PR Hacktoberfest 2024'},
   { username: 'anki1317', message: 'Happy Hacktoberfest 2024!'},
   { username: 'Yeashu', message: 'Hello Hacktoberfest. Here my journey begin'},
+  { username: 'BlazePhenom', message: 'Here my open source journey begins'},
   { username: 'sanaa-duhh', message: 'starting my hacktoberfest journey with this one'},
   { username: 'SayedZahur786', message: 'Hello Zenika, Thanks for this Pr'},
   { username: 'darshanbagade', message: 'Quality is like a duck : smooth on the surface, but paddling hard beneath.'},
   { username: 'RJSIN147', message: 'Thanks for this repo.'},
   { username: 'Khushboo1324', message: 'Thanks for this pr.'}
-  
-
 ];
