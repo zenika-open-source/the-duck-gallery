@@ -10,6 +10,7 @@
  */
 
 const contributors = [
+  { username: 'THRISHAL12345', message: 'Time to fly' },
   { username: 'ItsAJ1005', message: 'Ducks may take over the world someday, LOL...' },
   { username: 'yannbertrand', message: 'Hello, world!' },
   { username: 'R0Y15', message: 'Quack Quack Quack' },
@@ -63,3 +64,24 @@ const contributors = [
   { username: 'Brijeshthummar02', message: 'Open source unites us 🌐✨ - lets connect!' }
     
 ]
+
+  { username: 'anushkabhansalii', message: 'Keep smiling!' },
+  { username: 'sohailshk', message: 'First pr hopefully for hacktoberfest2024' },
+  { username: 'snehachandra1108', message: 'First Hacktober' },
+  { username: 'aastik-gg', message: 'Keep contributing' },
+  { username: 'its-wasp', message: 'I\'m the hecker boi'},
+  { username: 'Karthikeya914', message: 'Duck Duck' },
+  { username: 'saicharan7284', message: ' i.am__atomic '},
+  { username: 'milesmoralis2411', message: 'Lesss gooo duckkk'},
+  { username: 'nVedaVarshit', message: 'last of october my First Hacktober' },
+  { username: 'o10j19', message: 'print(Happy Hacktoberfest 2024!!)'},
+  { username: 'Nirbhay-kr24', message: 'My first PR Hacktoberfest 2024'},
+  { username: 'anki1317', message: 'Happy Hacktoberfest 2024!'},
+  { username: 'Yeashu', message: 'Hello Hacktoberfest. Here my journey begin'},
+  { username: 'BlazePhenom', message: 'Here my open source journey begins'},
+  { username: 'sanaa-duhh', message: 'starting my hacktoberfest journey with this one'},
+  { username: 'SayedZahur786', message: 'Hello Zenika, Thanks for this Pr'},
+  { username: 'darshanbagade', message: 'Quality is like a duck : smooth on the surface, but paddling hard beneath.'},
+  { username: 'RJSIN147', message: 'Thanks for this repo.'},
+  { username: 'Khushboo1324', message: 'Thanks for this pr.'}
+];
