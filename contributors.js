@@ -80,4 +80,5 @@ const contributors = [
   { username: 'RJSIN147', message: 'Thanks for this repo.'},
   { username: 'Khushboo1324', message: 'Thanks for this pr.'},
   { username: 'Kapil564', message: 'Thanks for this repo.'},
+  { username: 'shivraj110504', message: 'Thanks for this repo.'},
 ];
