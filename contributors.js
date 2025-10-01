@@ -10,5 +10,5 @@
  */
 
 const contributors = [
-  
+    { username: 'jeanphibaconnais', message: 'Hacktoberfest 25 🤘' }
 ];
