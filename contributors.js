@@ -10,6 +10,6 @@
  */
 
 const contributors = [
-    { username: 'jeanphibaconnais', message: 'Hacktoberfest 25 🤘' }
+    { username: 'jeanphibaconnais', message: 'Hacktoberfest 25 🤘' },
     { username: '73TomT73', message: 'Premier fork :)' }
 ];
