@@ -12,5 +12,6 @@
 const contributors = [
     { username: 'jeanphibaconnais', message: 'Hacktoberfest 25 🤘' },
     { username: 'maximeSurmontZnk', message: 'Ducking the world 🫶'},
+    { username: 'roselutz', message: 'Hellocktoberfest !' },
     { username: 'h00dieB0y', message: 'Hacktoberfest 25 🤘 without a hoodie this time'}
 ];
