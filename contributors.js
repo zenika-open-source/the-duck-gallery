@@ -15,5 +15,6 @@ const contributors = [
     { username: '73TomT73', message: 'Premier fork :)' },
     { username: 'roselutz', message: 'Hellocktoberfest !' },
     { username: 'h00dieB0y', message: 'Hacktoberfest 25 🤘 without a hoodie this time'},
+  	{ username: 'slytechiefrommagentashore', message: 'A Swag duck to Hacktoberfest🤘' },
     { username: 'ClJarvis', message:'I once made rubber ducks with CSS'}
 ];
