@@ -1,6 +1,7 @@
 ![The Duck Gallery](./assets/social-share.png)
 
 [![License: Apache-2.0](https://img.shields.io/github/license/zenika-open-source/my-zenikanard)](./LICENSE.md)
+[![Plumber Score](https://score.getplumber.io/github.com/zenika-open-source/the-duck-gallery.svg)](https://score.getplumber.io/github.com/zenika-open-source/the-duck-gallery)
 
 The main goal of "The Duck Gallery" is to propose an easy and fun way to make your first contribution on an open source project.
 
